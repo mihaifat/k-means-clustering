@@ -8,7 +8,7 @@ public class Demo {
 
     private static final int NUMBER_OF_CLUSTERS = 5;
     private static final String INPUT_PATH = "C:\\input.jpg";
-    private static final String OUTPUT_PATH = "c:\\output.jpg";
+    private static final String OUTPUT_PATH = "C:\\output.jpg";
     private static final String FILE_EXTENSION = "jpg";
 
     public static void main(String[] args) throws Exception {
